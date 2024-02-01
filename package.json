@@ -1,0 +1,14 @@
+{
+  "name": "07__quantumshop",
+  "version": "1.0.0",
+  "description": "A e-commerce site with full product detail page.",
+  "main": "script.js",
+  "scripts": {
+    "compile-sass": "node-sass SASS/main.scss CSS/style.css -w"
+  },
+  "author": "Pratik Kesharwani",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}

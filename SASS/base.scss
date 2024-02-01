@@ -1,0 +1,74 @@
+*,
+*::after,
+*::before {
+  padding: 0rem;
+  margin: 0rem;
+  box-sizing: border-box;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+img,
+picture,
+video,
+svg,
+canvas {
+  display: block;
+  max-width: 100%;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  font: inherit;
+}
+
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+input {
+  border: none;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+:root {
+  --body-bk-clr: hsl(0, 0%, 100%);
+  --item-bk-clr: hsl(60, 18%, 91%);
+  --slider-bk-clr: hsl(40, 3%, 20%);
+  --addtocart-bk-clr: hsl(40, 3%, 20%);
+  --close-btn-bk-clr: hsl(0, 0%, 93%);
+  --checkout-btn-bk-clr: hsl(48, 89%, 48%);
+
+  --addtocart-text-clr: hsl(0, 0%, 93%);
+}
+
+body {
+  min-height: 100vh;
+  position: relative;
+  isolation: isolate;
+  font-family: "Roboto", sans-serif;
+}
+
+.flex {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}

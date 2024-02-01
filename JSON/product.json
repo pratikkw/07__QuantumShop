@@ -1,0 +1,812 @@
+[
+  {
+    "id": 0,
+    "brandName": "CIGA DESIGN",
+    "productName": "Square Shape Analogue Wrist Watch",
+    "mrp": 45000,
+    "discountprice": 38250,
+    "discountprecentage": 15,
+    "aboutBrand": "CIGA Design is a watch brand founded in 2016 by Zhang Jianmin, one of China's Top 10 Industrial Designers. The brand has won 17 international design awards, including 9 Red Dot Design Awards, 2 iF Design Awards, and 3 German Design Awards. In 2021, CIGA Design was selected as one of the 'World's Top 3 Design Awards' with Apple and Bulgari.",
+    "productDetail": [
+      "Clean the dial with a cotton cloth",
+      "Leather",
+      "1 Year",
+      "Strap width: 22cm",
+      "Dial height: 40.8mm",
+      "Package contains: 1 wrist watch",
+      "Dial width: 40.8mm",
+      "Product Code: 464849520001"
+    ],
+    "images": [
+      "ProductsImg/Watches/CIGA watch-1--0.avif",
+      "ProductsImg/Watches/CIGA watch-1--01.avif",
+      "ProductsImg/Watches/CIGA watch-1--02.avif",
+      "ProductsImg/Watches/CIGA watch-1--03.avif",
+      "ProductsImg/Watches/CIGA watch-1--04.avif",
+      "ProductsImg/Watches/CIGA watch-1--05.avif",
+      "ProductsImg/Watches/CIGA watch-1--06.avif",
+      "ProductsImg/Watches/CIGA watch-1--07.avif"
+    ],
+    "category": "Watches",
+    "sub-category": "Men's Watches",
+    "freeDelivery": true,
+    "deliverInday": 4,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "5000",
+    "overallStar": 4.5,
+    "totalratings": 10456,
+    "totalreview": 4561
+  },
+
+  {
+    "id": 1,
+    "brandName": "SCUDERIA FERRARI",
+    "productName": "830668 Analogue Watch with Grainy Textured Dial",
+    "mrp": 8450,
+    "discountprice": 7605,
+    "discountprecentage": 10,
+    "aboutBrand": "Scuderia Ferrari watches are Luxury Watches that are affordably priced and manufactured for the fans of automotive racing teams. The budget Ferrari watches are made in Italy and are known for perfectly amalgamating striking Italian designs and accurate engineering of the Ferrari brand churning out trendy timepieces that are sporty and versatile.",
+    "productDetail": [
+      "Clean the dial with a cotton cloth",
+      "Dial Material: Stainless steel",
+      "Case thickness: 11mm",
+      "2-year international warranty against manufacturing defects",
+      "Dial width: 47.7 mm",
+      "Silicone",
+      "Water-resistant",
+      "Product Code: 460618048001"
+    ],
+    "images": [
+      "ProductsImg/Watches/SCUDERIA FERRARI watch-1--00.jpg",
+      "ProductsImg/Watches/SCUDERIA FERRARI watch-1--01.avif",
+      "ProductsImg/Watches/SCUDERIA FERRARI watch-1--02.avif",
+      "ProductsImg/Watches/SCUDERIA FERRARI watch-1--03.avif",
+      "ProductsImg/Watches/SCUDERIA FERRARI watch-1--04.avif",
+      "ProductsImg/Watches/SCUDERIA FERRARI watch-1--05.webp",
+      "ProductsImg/Watches/SCUDERIA FERRARI watch-1--06.avif",
+      "ProductsImg/Watches/SCUDERIA FERRARI watch-1--07.avif"
+    ],
+    "category": "Watches",
+    "sub-category": "Men's Watches",
+    "freeDelivery": true,
+    "deliverInday": 5,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "6578",
+    "overallStar": 4.7,
+    "totalratings": 12646,
+    "totalreview": 5065
+  },
+
+  {
+    "id": 2,
+    "brandName": "CASIO",
+    "productName": "G976 G-Shock Men (GA-140-1A4DR) Analog-Digital Wrist Watch",
+    "mrp": 8795,
+    "discountprice": false,
+    "discountprecentage": false,
+    "aboutBrand": "The G-Shock is a line of watches manufactured by the Japanese electronics company Casio, designed to resist mechanical stress, shock and vibration. G-Shock is an abbreviation for Gravitational Shock. The watches in the G-Shock line are designed primarily for sports, military and outdoors-oriented activities",
+    "productDetail": [
+      "Clean the dial with a cotton cloth",
+      "Water resistance: 200 m",
+      "2-year warranty against manufacturing defects",
+      "Dial width: 55 mm",
+      "Resin",
+      "Dial height: 51.2 mm",
+      "Product Code: 460812840001"
+    ],
+    "images": [
+      "ProductsImg/Watches/CASIO watch-1--00.avif",
+      "ProductsImg/Watches/CASIO watch-1--01.webp",
+      "ProductsImg/Watches/CASIO watch-1--02.avif",
+      "ProductsImg/Watches/CASIO watch-1--03.avif",
+      "ProductsImg/Watches/CASIO watch-1--04.avif",
+      "ProductsImg/Watches/CASIO watch-1--05.avif",
+      "ProductsImg/Watches/CASIO watch-1--06.webp",
+      "ProductsImg/Watches/CASIO watch-1--07.webp"
+    ],
+    "category": "Watches",
+    "sub-category": "Men's Watches",
+    "freeDelivery": true,
+    "deliverInday": 7,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "1545",
+    "overallStar": 4.7,
+    "totalratings": 7546,
+    "totalreview": 3456
+  },
+
+  {
+    "id": 3,
+    "brandName": "UNIQUEST",
+    "productName": "Men Water-Resistant Analogue Watch-UQM-021",
+    "mrp": 3899,
+    "discountprice": 1560,
+    "discountprecentage": 60,
+    "aboutBrand": "Uniquest is a recognized and respected leader and innovator in the distribution of electronic components. We provide an exemplary standard of products, services, and solutions to best suit the concerns of our customers.",
+    "productDetail": [
+      "Clean the dial with a cotton cloth",
+      "Water resistance: 30 m",
+      "1-year warranty against manufacturing defects",
+      "Strap width: 16 mm",
+      "Package contains: 1 watch, 1 instruction manual, 1 warranty card",
+      "Dial width: 42 mm",
+      "Leather",
+      "Date",
+      "Dial height: 15 mm",
+      "Product Code: 469456993002"
+    ],
+    "images": [
+      "ProductsImg/Watches/UNIQUEST watch-1--0.avif",
+      "ProductsImg/Watches/UNIQUEST watch-1--01.avif",
+      "ProductsImg/Watches/UNIQUEST watch-1--02.avif",
+      "ProductsImg/Watches/UNIQUEST watch-1--03.avif",
+      "ProductsImg/Watches/UNIQUEST watch-1--04.avif",
+      "ProductsImg/Watches/UNIQUEST watch-1--05.avif"
+    ],
+    "category": "Watches",
+    "sub-category": "Men's Watches",
+    "freeDelivery": true,
+    "deliverInday": 4,
+    "cashOnDelivery": true,
+    "bestSeller": false,
+    "broughtInLastMonth": "1000",
+    "overallStar": 4.3,
+    "totalratings": 2654,
+    "totalreview": 1578
+  },
+
+  {
+    "id": 4,
+    "brandName": "Noise",
+    "productName": "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38' TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rate Monitor, Sleep Tracking (Jet Black)",
+    "mrp": 4999,
+    "discountprice": 1399,
+    "discountprecentage": 72,
+    "aboutBrand": "India's number 1 smartwatch brand, Noise was founded with the mission to democratise connected lifestyle for Indians. With consumer centricity at its core, Noise has constantly come up with industry-leading and path-breaking innovations in audio and connected tech.",
+    "productDetail": [
+      "Color: Black",
+      "Screen Size: 1.38 inches",
+      "1-year warranty against manufacturing defects",
+      "Up to 7-day battery life",
+      "Volume control",
+      "NoiseFit app - Seamlessly track your progress over time, receive real-time health updates, engage in friendly competitions with friends, and proudly share your well-earned achievements.",
+      "Bluetooth calling",
+      "Charging - The smartwatch features a 300mAh battery that takes approx. 2 hours to fully charge.",
+      "Product Code: 469456978945"
+    ],
+    "images": [
+      "ProductsImg/Watches/NOISE watch-1--00.jpg",
+      "ProductsImg/Watches/NOISE watch-1--01.jpg",
+      "ProductsImg/Watches/NOISE watch-1--02.jpg",
+      "ProductsImg/Watches/NOISE watch-1--03.jpg",
+      "ProductsImg/Watches/NOISE watch-1--04.jpg"
+    ],
+    "category": "Watches",
+    "sub-category": "Watches",
+    "freeDelivery": true,
+    "deliverInday": 3,
+    "cashOnDelivery": true,
+    "bestSeller": true,
+    "broughtInLastMonth": "5000",
+    "overallStar": 4.7,
+    "totalratings": 10446,
+    "totalreview": 4654
+  },
+
+  {
+    "id": 5,
+    "brandName": "Boat",
+    "productName": "boAt Lunar Orb Smart Watch with 1.45' AMOLED Display, BT Calling, DIY Watch Face Studio, Coins, Crest App Health Ecosystem, Live Cricket&Football Scores, IP67(Steel Black)",
+    "mrp": 2799,
+    "discountprice": 9499,
+    "discountprecentage": 71,
+    "aboutBrand": "Boat is a consumer electronics startup that brings millennials affordable, durable, and fashionable audio products and accessories.",
+    "productDetail": [
+      "Color: Steel black",
+      "Screen Size: 1.45 inches",
+      "1-year warranty against manufacturing defects",
+      "Up to 7-day battery life",
+      "Always on Display: Always on Display allows you to view the home screen without having to repeatedly use the wake gesture",
+      "700+ Active Mode- From running to binge-watching, from weight training to dog walking, from skateboarding to snuggling",
+      "Bluetooth calling",
+      "Charging - The smartwatch features a 300mAh battery that takes approx. 2 hours to fully charge.",
+      "Product Code: 469456954621"
+    ],
+    "images": [
+      "ProductsImg/Watches/BOAT watch-1--00.jpg",
+      "ProductsImg/Watches/BOAT watch-1--01.jpg",
+      "ProductsImg/Watches/BOAT watch-1--02.jpg",
+      "ProductsImg/Watches/BOAT watch-1--03.jpg",
+      "ProductsImg/Watches/BOAT watch-1--04.jpg",
+      "ProductsImg/Watches/BOAT watch-1--05.jpg"
+    ],
+    "category": "Watches",
+    "sub-category": "Watches",
+    "freeDelivery": true,
+    "deliverInday": 2,
+    "cashOnDelivery": true,
+    "bestSeller": false,
+    "broughtInLastMonth": "5000",
+    "overallStar": 3.6,
+    "totalratings": 686,
+    "totalreview": 454
+  },
+
+  {
+    "id": 6,
+    "brandName": "CIGA DESIGN",
+    "productName": "M021-SISI-W13 Skeleton Analogue Watch",
+    "mrp": 29000,
+    "discountprice": 23200,
+    "discountprecentage": 20,
+    "aboutBrand": "CIGA Design is a watch brand founded in 2016 by Zhang Jianmin, one of China's Top 10 Industrial Designers. The brand has won 17 international design awards, including 9 Red Dot Design Awards, 2 iF Design Awards, and 3 German Design Awards. In 2021, CIGA Design was selected as one of the 'World's Top 3 Design Awards' with Apple and Bulgari.",
+    "productDetail": [
+      "Clean the dial with a cotton cloth",
+      "Silver-Toned",
+      "1-year warranty against manufacturing defects",
+      "Strap width: 22 mm",
+      "Dial height: 45 mm",
+      "Silver",
+      "Package contains: 1 watch",
+      "Dial width: 45 mm",
+      "Product Code: 465360582001"
+    ],
+    "images": [
+      "ProductsImg/Watches/CIGA watch-2--0.avif",
+      "ProductsImg/Watches/CIGA watch-2--01.webp",
+      "ProductsImg/Watches/CIGA watch-2--02.webp",
+      "ProductsImg/Watches/CIGA watch-2--03.avif",
+      "ProductsImg/Watches/CIGA watch-2--04.avif",
+      "ProductsImg/Watches/CIGA watch-2--05.avif",
+      "ProductsImg/Watches/CIGA watch-2--06.avif",
+      "ProductsImg/Watches/CIGA watch-2--07.avif",
+      "ProductsImg/Watches/CIGA watch-2--08.avif",
+      "ProductsImg/Watches/CIGA watch-2--09.avif"
+    ],
+    "category": "Watches",
+    "sub-category": "Women's Watches",
+    "freeDelivery": true,
+    "deliverInday": 5,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "2000",
+    "overallStar": 4.6,
+    "totalratings": 4212,
+    "totalreview": 1505
+  },
+
+  {
+    "id": 7,
+    "brandName": "TED BAKER",
+    "productName": "BKPPHS302 Analogue Watch with Leather Strap",
+    "mrp": 12995,
+    "discountprice": 7147,
+    "discountprecentage": 45,
+    "aboutBrand": "Ted Baker is a British fashion brand that has become a global sensation for its quirky and unique designs. Founded in Glasgow in 1988 by Ray Kelvin, the brand has since expanded to over 35 countries worldwide, and has become synonymous with quality fabrics and attention to detail",
+    "productDetail": [
+      "Clean the dial with a cotton cloth",
+      "Leather",
+      "1-year warranty against manufacturing defects",
+      "Strap width: 18 mm",
+      "Dial height: 8.5 mm",
+      "Rose Gold",
+      "Package contains: 1 watch",
+      "Dial width: 37 mm",
+      "Product Code: 466010984001"
+    ],
+    "images": [
+      "ProductsImg/Watches/TED BAKER watch-1--00.avif",
+      "ProductsImg/Watches/TED BAKER watch-1--01.avif",
+      "ProductsImg/Watches/TED BAKER watch-1--02.avif",
+      "ProductsImg/Watches/TED BAKER watch-1--03.avif"
+    ],
+    "category": "Watches",
+    "sub-category": "Women's Watches",
+    "freeDelivery": true,
+    "deliverInday": 3,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "1500",
+    "overallStar": 4.8,
+    "totalratings": 1200,
+    "totalreview": 556
+  },
+
+  {
+    "id": 8,
+    "brandName": "Shocknshop",
+    "productName": "Shocknshop Digital Sports Multi Functional Black Dial Watch for Mens Boys -315RED",
+    "mrp": 1119,
+    "discountprice": 260,
+    "discountprecentage": -77,
+    "aboutBrand": "",
+    "productDetail": [
+      "Clean the dial with a cotton cloth",
+      "Watch Movement Type: Quartz , Watch Display Type: Digital & Day and Date",
+      "Multi-Functions: Complete Calendar, Chronograph, Week Display, LED Display, Countdown ; Movement: Digital Movement ; Band Material Type: Silica gel",
+      "Warranty: 6 Month",
+      "Water Resistance: 50 Meters",
+      "Package contains: 1 watch",
+      "Special Features: Double Time, Count Down, alarm, Crono, EL Light",
+      "Product Code: 466010984001"
+    ],
+    "images": [
+      "ProductsImg/Watches/Shocknshop watch-1--00.jpg",
+      "ProductsImg/Watches/Shocknshop watch-1--01.jpg",
+      "ProductsImg/Watches/Shocknshop watch-1--02.jpg",
+      "ProductsImg/Watches/Shocknshop watch-1--03.jpg",
+      "ProductsImg/Watches/Shocknshop watch-1--04.jpg",
+      "ProductsImg/Watches/Shocknshop watch-1--05.jpg"
+    ],
+    "category": "Watches",
+    "sub-category": "Watches",
+    "freeDelivery": false,
+    "deliverInday": 5,
+    "cashOnDelivery": true,
+    "bestSeller": true,
+    "broughtInLastMonth": "2750",
+    "overallStar": 3.8,
+    "totalratings": 7586,
+    "totalreview": 3546
+  },
+
+  {
+    "id": 9,
+    "brandName": "",
+    "productName": "Matrix Antique 2.0 Day & Date Softest Silicone Strap Analog Watch for Men & Boys",
+    "mrp": 1999,
+    "discountprice": 249,
+    "discountprecentage": -88,
+    "aboutBrand": "",
+    "productDetail": [
+      "Dial : Brass Metal Dial With Silver Needles & Day & Date Feature",
+      "Strap & Case : Softest Silicon Strap | Stainless Steel Case",
+      "Machinery : Japanese Quartz Machinery With Original Sony Batteries Which Last More Than 2 Years",
+      "Other Features : Scratch Resistant Glass & Water Resistent Upto 1 M",
+      "Warranty - 1 Year Manufacturing Warranty",
+      "Product Code: 466010756189"
+    ],
+    "images": [
+      "ProductsImg/Watches/Matrix Antique watch-1--00.jpg",
+      "ProductsImg/Watches/Matrix Antique watch-1--01.jpg",
+      "ProductsImg/Watches/Matrix Antique watch-1--02.jpg",
+      "ProductsImg/Watches/Matrix Antique watch-1--03.jpg",
+      "ProductsImg/Watches/Matrix Antique watch-1--04.jpg"
+    ],
+    "category": "Watches",
+    "sub-category": "Watches",
+    "freeDelivery": false,
+    "deliverInday": 7,
+    "cashOnDelivery": true,
+    "bestSeller": false,
+    "broughtInLastMonth": "200",
+    "overallStar": 4.7,
+    "totalratings": 700,
+    "totalreview": 375
+  },
+
+  {
+    "id": 10,
+    "brandName": "JACK & JONES",
+    "productName": "Men Brand Embroidered Baseball Cap",
+    "mrp": 1199,
+    "discountprice": 799,
+    "discountprecentage": 33,
+    "aboutBrand": "One of Europe's leading producers of menswear, JACK & JONES is riding high on a strong legacy of craftsmanship, unmatched quality and exemplary style. With humble beginnings that are dated back to 1990, the brand today holds an inimitable position in the sphere of trend inspired fashion for the cosmopolitan man.",
+    "productDetail": [
+      "3-month warranty against manufacturing defects",
+      "Package contains: 1 cap",
+      "Cotton",
+      "Product Code: 466627444001"
+    ],
+    "images": [
+      "ProductsImg/Caps/JACK & JONES cap-1--00.avif",
+      "ProductsImg/Caps/JACK & JONES cap-1--01.avif",
+      "ProductsImg/Caps/JACK & JONES cap-1--02.avif",
+      "ProductsImg/Caps/JACK & JONES cap-1--03.avif",
+      "ProductsImg/Caps/JACK & JONES cap-1--04.avif",
+      "ProductsImg/Caps/JACK & JONES cap-1--05.avif"
+    ],
+    "category": "Caps & Hats",
+    "sub-category": "Men's Caps & Hats",
+    "freeDelivery": true,
+    "deliverInday": 3,
+    "cashOnDelivery": true,
+    "bestSeller": false,
+    "broughtInLastMonth": "1000",
+    "overallStar": 4.1,
+    "totalratings": 2000,
+    "totalreview": 855
+  },
+
+  {
+    "id": 11,
+    "brandName": "WOODLAND",
+    "productName": "Men Wool Patterned-Knit Beanie",
+    "mrp": 395,
+    "discountprice": 316,
+    "discountprecentage": 20,
+    "aboutBrand": "Woodland is a premium brand of outdoor and adventure footwear and clothing. The brand was founded in Quebec, Canada in the 1950s. In 1992, footwear manufacturer and distributor Aero Group purchased the Woodland brand and brought it into the Indian market.",
+    "productDetail": [
+      "Wipe with a clean dry cloth",
+      "Wool",
+      "6-month warranty against manufacturing defects",
+      "Package contains: 1 beanie",
+      "Product Code: 469366185001"
+    ],
+    "images": [
+      "ProductsImg/Caps/woodland cap-1--00.avif",
+      "ProductsImg/Caps/woodland cap-1--01.webp",
+      "ProductsImg/Caps/woodland cap-1--02.webp"
+    ],
+    "category": "Caps & Hats",
+    "sub-category": "Men's Caps & Hats",
+    "freeDelivery": false,
+    "deliverInday": 4,
+    "cashOnDelivery": true,
+    "bestSeller": false,
+    "broughtInLastMonth": "1700",
+    "overallStar": 4.4,
+    "totalratings": 3897,
+    "totalreview": 1782
+  },
+
+  {
+    "id": 12,
+    "brandName": "FRENCH ACCENT",
+    "productName": "Denim Hat with Adjustable Back Closure",
+    "mrp": 1985,
+    "discountprice": 675,
+    "discountprecentage": 66,
+    "aboutBrand": "",
+    "productDetail": [
+      "Package contains: 1 cap",
+      "Polyester",
+      "Product Code: 465144224001"
+    ],
+    "images": [
+      "ProductsImg/Caps/FRENCH ACCENT cap-1--00.avif",
+      "ProductsImg/Caps/FRENCH ACCENT cap-1--01.avif",
+      "ProductsImg/Caps/FRENCH ACCENT cap-1--02.avif",
+      "ProductsImg/Caps/FRENCH ACCENT cap-1--03.avif"
+    ],
+    "category": "Caps & Hats",
+    "sub-category": "Men's Caps & Hats",
+    "freeDelivery": true,
+    "deliverInday": 7,
+    "cashOnDelivery": true,
+    "bestSeller": false,
+    "broughtInLastMonth": "2500",
+    "overallStar": 4.5,
+    "totalratings": 1878,
+    "totalreview": 976
+  },
+
+  {
+    "id": 13,
+    "brandName": "ARMANI EXCHANGE",
+    "productName": "Icon Logo Baseball Cap",
+    "mrp": 5999,
+    "discountprice": 4799,
+    "discountprecentage": 20,
+    "aboutBrand": "A|X Armani Exchange was launched in 1991 in the U.S. It retails fashion and lifestyle products and is known for its occasionally provocative ad campaigns. Inspired by street-chic culture and dance music, it is targeted as the more accessible Armani brand.",
+    "productDetail": [
+      "100% Cotton",
+      "Package contains: 1 cap",
+      "Hand wash cold separately",
+      "Product Code: 410394939001"
+    ],
+    "images": [
+      "ProductsImg/Caps/ARMANI EXCHANGE cap-1--00.avif",
+      "ProductsImg/Caps/ARMANI EXCHANGE cap-1--01.avif",
+      "ProductsImg/Caps/ARMANI EXCHANGE cap-1--02.avif",
+      "ProductsImg/Caps/ARMANI EXCHANGE cap-1--03.avif"
+    ],
+    "category": "Caps & Hats",
+    "sub-category": "Men's Caps & Hats",
+    "freeDelivery": true,
+    "deliverInday": 3,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "1500",
+    "overallStar": 4.5,
+    "totalratings": 3989,
+    "totalreview": 2899
+  },
+
+  {
+    "id": 14,
+    "brandName": "JAZAA",
+    "productName": "JAZAA Vintage Baseball Cap Snapback Trucker Hat, Outdoor Sports Baseball Hat, Hiking Hat, Running Hat",
+    "mrp": 499,
+    "discountprice": 274,
+    "discountprecentage": 45,
+    "aboutBrand": "",
+    "productDetail": [
+      "Outer Material Type: Cotton",
+      "Age Range Description: Adult",
+      "Department Name: Unisex",
+      "Fabric Type: Cotton",
+      "Size: Free Size",
+      "Product Code: 410394275090"
+    ],
+    "images": [
+      "ProductsImg/Caps/JAZAA cap-1--00.jpg",
+      "ProductsImg/Caps/JAZAA cap-1--01.jpg",
+      "ProductsImg/Caps/JAZAA cap-1--02.jpg",
+      "ProductsImg/Caps/JAZAA cap-1--03.jpg",
+      "ProductsImg/Caps/JAZAA cap-1--04.jpg"
+    ],
+    "category": "Caps & Hats",
+    "sub-category": "Men's Caps & Hats",
+    "freeDelivery": false,
+    "deliverInday": 5,
+    "cashOnDelivery": true,
+    "bestSeller": false,
+    "broughtInLastMonth": "100",
+    "overallStar": 3.8,
+    "totalratings": 1868,
+    "totalreview": 898
+  },
+
+  {
+    "id": 15,
+    "brandName": "SUPERDRY",
+    "productName": "Vintage Brand Mark Corduroy Baseball Cap",
+    "mrp": 3299,
+    "discountprice": 2969,
+    "discountprecentage": 10,
+    "aboutBrand": "Superdry is a UK clothing brand and retailer. It is known for its combination of vintage Americana-style with Japanese graphics. Superdry products are characterized by hand-drawn graphics, authentic vintage washes, quality fabrics, and unique detailing.",
+    "productDetail": [
+      "Machine wash cold (30Â°C)",
+      "Brand embroidery",
+      "Package contains: 1 cap",
+      "55% cotton, 45% polyester",
+      "Product Code: 410354412002"
+    ],
+    "images": [
+      "ProductsImg/Caps/SUPERDRY cap-1--00.avif",
+      "ProductsImg/Caps/SUPERDRY cap-1--01.avif"
+    ],
+    "category": "Caps & Hats",
+    "sub-category": "Women's Caps & Hats",
+    "freeDelivery": true,
+    "deliverInday": 5,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "2000",
+    "overallStar": 4.5,
+    "totalratings": 3989,
+    "totalreview": 2998
+  },
+
+  {
+    "id": 16,
+    "brandName": "HAUTE SAUCE",
+    "productName": "Textured Breton Cap",
+    "mrp": 1985,
+    "discountprice": 635,
+    "discountprecentage": 68,
+    "aboutBrand": "",
+    "productDetail": [
+      "Package Contains : 1 breton cap",
+      "Wool",
+      "Product Code: 464721330001"
+    ],
+    "images": [
+      "ProductsImg/Caps/HAUTE SAUCE cap-1--00.avif",
+      "ProductsImg/Caps/HAUTE SAUCE cap-1--01.avif",
+      "ProductsImg/Caps/HAUTE SAUCE cap-1--02.avif",
+      "ProductsImg/Caps/HAUTE SAUCE cap-1--03.avif",
+      "ProductsImg/Caps/HAUTE SAUCE cap-1--04.avif"
+    ],
+    "category": "Caps & Hats",
+    "sub-category": "Women's Caps & Hats",
+    "freeDelivery": false,
+    "deliverInday": 4,
+    "cashOnDelivery": true,
+    "bestSeller": false,
+    "broughtInLastMonth": "3000",
+    "overallStar": 4.5,
+    "totalratings": 5989,
+    "totalreview": 3890
+  },
+
+  {
+    "id": 17,
+    "brandName": "SUPERDRY",
+    "productName": "Code MTN Knitted Beanie",
+    "mrp": 2999,
+    "discountprice": false,
+    "discountprecentage": null,
+    "aboutBrand": "Superdry is a UK clothing brand and retailer. It is known for its combination of vintage Americana-style with Japanese graphics. Superdry products are characterized by hand-drawn graphics, authentic vintage washes, quality fabrics, and unique detailing.",
+    "productDetail": [
+      "Machine wash cold (30 °C)",
+      "It is an unisex product",
+      "Package contains: 1 beanie",
+      "50% polyester, 50% acrylic",
+      "Product Code: 410354415002"
+    ],
+    "images": [
+      "ProductsImg/Caps/SUPERDRY cap-2--00.avif",
+      "ProductsImg/Caps/SUPERDRY cap-2--01.avif",
+      "ProductsImg/Caps/SUPERDRY cap-2--02.avif",
+      "ProductsImg/Caps/SUPERDRY cap-2--03.avif"
+    ],
+    "category": "Caps & Hats",
+    "sub-category": "Men's Caps & Hats",
+    "freeDelivery": true,
+    "deliverInday": 5,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "2500",
+    "overallStar": 4.7,
+    "totalratings": 3897,
+    "totalreview": 1798
+  },
+
+  {
+    "id": 18,
+    "brandName": "513",
+    "productName": "Self-design Beanie with Pom-Pom",
+    "mrp": 999,
+    "discountprice": 400,
+    "discountprecentage": 60,
+    "aboutBrand": "",
+    "productDetail": ["Pom poms", "Acrylic", "Product Code: 461883804001"],
+    "images": [
+      "ProductsImg/Caps/513 cap-1--00.avif",
+      "ProductsImg/Caps/513 cap-1--01.avif",
+      "ProductsImg/Caps/513 cap-1--02.avif",
+      "ProductsImg/Caps/513 cap-1--03.avif"
+    ],
+    "category": "Caps & Hats",
+    "sub-category": "Women's Caps & Hats",
+    "freeDelivery": false,
+    "deliverInday": 7,
+    "cashOnDelivery": true,
+    "bestSeller": false,
+    "broughtInLastMonth": "1250",
+    "overallStar": 4.2,
+    "totalratings": 3808,
+    "totalreview": 1539
+  },
+
+  {
+    "id": 19,
+    "brandName": "PUMA",
+    "productName": "Beanie with Signature Branding",
+    "mrp": 999,
+    "discountprice": false,
+    "discountprecentage": null,
+    "aboutBrand": "PUMA is one of the world’s leading Sports Brands, designing, developing, selling and marketing footwear, apparel and accessories. For 70 years, PUMA has established a history of making fast product designs for the fastest athletes on the planet. PUMA offers performance and sport-inspired lifestyle products in categories such as Running and Training, Motorsports, Football, Badminton and Basketball",
+    "productDetail": [
+      "Acrylic",
+      "Hand wash warm",
+      "Product Code: 460478370001"
+    ],
+    "images": [
+      "ProductsImg/Caps/PUMA cap-1--00.webp",
+      "ProductsImg/Caps/PUMA cap-1--01.avif"
+    ],
+    "category": "Caps & Hats",
+    "sub-category": "Men's Caps & Hats",
+    "freeDelivery": true,
+    "deliverInday": 3,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "2000",
+    "overallStar": 4.2,
+    "totalratings": 4799,
+    "totalreview": 2808
+  },
+
+  {
+    "id": 20,
+    "brandName": "Canon",
+    "productName": "Canon EOS 3000D 18MP Digital SLR Camera (Black) with 18-55mm is II Lens, 16GB Card and Carry Case",
+    "mrp": 35995,
+    "discountprice": 34990,
+    "discountprecentage": 3,
+    "aboutBrand": "Canon is a Japanese multinational corporation headquartered in Ōta, Tokyo, specializing in optical, imaging, and industrial products, such as lenses, cameras, medical equipment, scanners, printers, and semiconductor manufacturing equipment.",
+    "productDetail": [
+      "18-megapixel APS-C-size CMOS sensor and DIGIC 4+ image processor;9-point AF with 1 centre cross-type AF point",
+      "Standard ISO 100 - 6400 (expandable to 12800);Wi-Fi supported",
+      "18.0 megapixels;Canon EF lenses (including EF-S lenses) compaitable",
+      "CMOS sensor;Recording format : Design rule for Camera File System (DCF) 2.0; JPEG, RAW (14-bit Canon original);Auto Lighting Optimizer",
+      "Wireless Communication Technology: Registered Web Services; Compatible Mountings: Canon Ef-Scanon Ef",
+      "Product Code: 460478370777"
+    ],
+    "images": [
+      "ProductsImg/Camera/Canon camera-1--00.jpg",
+      "ProductsImg/Camera/Canon camera-1--01.jpg",
+      "ProductsImg/Camera/Canon camera-1--02.jpg",
+      "ProductsImg/Camera/Canon camera-1--03.jpg",
+      "ProductsImg/Camera/Canon camera-1--04.jpg",
+      "ProductsImg/Camera/Canon camera-1--05.jpg"
+    ],
+    "category": "Electronic",
+    "sub-category": "Camera",
+    "freeDelivery": true,
+    "deliverInday": 3,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "2000",
+    "overallStar": 4.2,
+    "totalratings": 2078,
+    "totalreview": 899
+  },
+
+  {
+    "id": 21,
+    "brandName": "GoPro",
+    "productName": "GoPro HERO11 Waterproof Action Camera with Front & Rear LCD Screens, 5.3K60 Ultra HD Video, HyperSmooth 5.0,1080p Live Streaming with Enduro Battery (1-Yr International + 1-Yr India Warranty)",
+    "mrp": 51500,
+    "discountprice": 38490,
+    "discountprecentage": 25,
+    "aboutBrand": "GoPro, Inc. is an American technology company that designs, develops, and markets action cameras, mounts, and accessories. The company also offers desktop applications, cloud-based subscription services, and mobile applications to capture, manage, and share content",
+    "productDetail": [
+      "1 year International + Free 1* year extended India warranty. *To avail free 1 year local India warranty please register on website (gopro luxurypersonified)",
+      "Revolutionary New Image Sensor: expansive field of view ever on a HERO camera out of the box. This gives you an extra-large canvas for your creativity by capturing more of the sky and horizon in every shot. Zoom in, crop your shots, change digital lenses, adjust aspect ratios and more while keeping the rich textures and sharpness of your footage. Maximum Video Bit Rate : 120Mbps. ISO Range - Video : 100-6400, ISO Range - Photo : 100-3200, Exposure Control : Yes, Operating Temperature : -10º C - 35º C",
+      "Unbelievable Image Quality: With 5.3K video that gives you 91% more resolution than 4K and an incredible 665% more than 1080p, HERO11 Black captures the action with crisp detail and cinematic image quality. A water- repelling lens cover even helps eliminate lens flare and other artifacts to make your photos and videos even more stunning",
+      "High-Res Photos + Videos, High Frame Rate: HERO11 Black’s new image sensor boosts photo resolution up to an incredible 27MP while delivering 5.3K60 video with amazingly fluid motion that you can use to grab stunning 24.7MP stills of your favorite shots. Plus, record 2.7K240 video that can be played back in 8x slo-mo to catch details that can’t be seen at normal speed",
+      "What’s Included: HERO11 Black Action Camera, Enduro Battery, Curved Adhesive Mount, Mounting Buckle + Thumb Screw, USB-C Cable",
+      "Product Code: 460478370780"
+    ],
+    "images": [
+      "ProductsImg/Camera/GOPRO camera-1--00.jpg",
+      "ProductsImg/Camera/GOPRO camera-1--01.jpg",
+      "ProductsImg/Camera/GOPRO camera-1--02.jpg",
+      "ProductsImg/Camera/GOPRO camera-1--03.jpg",
+      "ProductsImg/Camera/GOPRO camera-1--04.jpg",
+      "ProductsImg/Camera/GOPRO camera-1--05.jpg"
+    ],
+    "category": "Electronic",
+    "sub-category": "Camera",
+    "freeDelivery": true,
+    "deliverInday": 5,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "3000",
+    "overallStar": 4.1,
+    "totalratings": 3988,
+    "totalreview": 2879
+  },
+
+  {
+    "id": 22,
+    "brandName": "GoPro",
+    "productName": "GoPro MAX 360 Action Camera (Waterproof + Stabilization) with Touch Screen Spherical 5.6K30 HD Video 16.6MP 360 Photos 1080p Live Streaming Stabilization",
+    "mrp": 53000,
+    "discountprice": 51490,
+    "discountprecentage": 3,
+    "aboutBrand": "GoPro, Inc. is an American technology company that designs, develops, and markets action cameras, mounts, and accessories. The company also offers desktop applications, cloud-based subscription services, and mobile applications to capture, manage, and share content",
+    "productDetail": [
+      "1 year international + 1 year local India warranty.MAX gives you unbreakable stabilisation by using 180° capture as the ultimate buffer. HERO Photo: 5.5MP, Max SuperView, Wide Lenses",
+      "In HERO mode, game-changing horizon levelling gives you that silky-smooth cinematic look whether you’re getting sideways, Pano without the pan. Take incredible 270° distortion-free panoramic photos without having to scan the horizon",
+      "Six mics capture true-to-life 360° audio and deliver the best stereo sound ever from a GoPro",
+      "Product Code: 460478370783"
+    ],
+    "images": [
+      "ProductsImg/Camera/GOPRO camera-2--00.jpg",
+      "ProductsImg/Camera/GOPRO camera-2--01.jpg",
+      "ProductsImg/Camera/GOPRO camera-2--02.jpg",
+      "ProductsImg/Camera/GOPRO camera-2--03.jpg",
+      "ProductsImg/Camera/GOPRO camera-2--04.jpg",
+      "ProductsImg/Camera/GOPRO camera-2--05.jpg"
+    ],
+    "category": "Electronic",
+    "sub-category": "Camera",
+    "freeDelivery": true,
+    "deliverInday": 5,
+    "cashOnDelivery": false,
+    "bestSeller": false,
+    "broughtInLastMonth": "3000",
+    "overallStar": 4.1,
+    "totalratings": 3988,
+    "totalreview": 2879
+  }
+]

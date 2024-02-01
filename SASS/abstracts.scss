@@ -1,0 +1,40 @@
+.primary--title {
+  font-size: 2.25rem;
+}
+
+.secondary--title {
+  font-weight: 400;
+  font-size: 1.25rem;
+}
+
+.third--title {
+  font-size: 2.25rem;
+  font-weight: 300;
+}
+
+.fourth--title {
+  font-weight: 300;
+}
+
+// MDF CLASSes
+.hide-transition_box {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.3s;
+}
+
+.hide-transition_sub-box {
+  overflow: hidden;
+}
+
+.hide-transition_box--active {
+  grid-template-rows: 1fr;
+}
+
+.overlay--active {
+  display: block;
+}
+
+.slider--active {
+  transform: translateX(0%);
+}
