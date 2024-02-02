@@ -48,6 +48,10 @@ a {
   --addtocart-bk-clr: hsl(40, 3%, 20%);
   --close-btn-bk-clr: hsl(0, 0%, 93%);
   --checkout-btn-bk-clr: hsl(48, 89%, 48%);
+  --shipping-icon-clr: hsl(196, 95%, 52%);
+  --payment-icon-clr: hsl(167, 100%, 36%);
+  --certified-icon-clr: hsl(48, 100%, 67%);
+  --trophy-icon-clr: hsl(231, 64%, 73%);
   --addtocart-text-clr: hsl(0, 0%, 93%);
   --detail-page-cko-btn-bk-clr: hsla(0, 4%, 82%, 0.7);
   --detail-page-atc-btn-bk-clr: hsl(0, 0%, 18%);
@@ -57,10 +61,10 @@ a {
   --secondary-title-fs: 1.25rem;
   --third-title-fs: 2.25rem;
   --detail-primary-title-fs: 3rem;
-  --detail-price-fs: 1.75rem;
+  --detail-price-fs: 1.5rem;
   --similar-title-fs: 2.25rem;
   --item-price-fs: 1.25rem;
-  --para-fs: 1.125rem; }
+  --para-fs: 1rem; }
 
 body {
   min-height: 100dvh;
@@ -122,13 +126,16 @@ body {
 .detail {
   --detail-cont-padding: 2rem 1rem;
   --cko-and-atc-padding: 0.75rem 1.75rem;
-  --detail-img-width: 20rem;
+  --detail-header-gap: 0.5rem;
   --detail-product-gap: 2rem;
+  --detail-sub-product-gap: 2rem;
   --atc-btn-gap: 0.75rem;
-  --cko-and-atc-btn-fs: 1.11rem;
-  --atc-icon-fs: 1.75rem; }
+  --cko-and-atc-btn-fs: 1rem;
+  --atc-icon-fs: 1.5rem;
+  --feature-icon-fs: 2rem;
+  --feature-text-fs: 1rem; }
   .detail__container {
-    grid-template-columns: 1fr 1.25fr;
+    grid-template-columns: 1fr 1fr;
     gap: 2rem;
     padding: var(--detail-cont-padding); }
 
@@ -203,10 +210,16 @@ body {
   text-transform: capitalize;
   background-color: var(--checkout-btn-bk-clr); }
 
+.detail__header {
+  gap: var(--detail-header-gap); }
+
 .detail__product {
   gap: var(--detail-product-gap);
   position: relative;
   z-index: 70; }
+
+.detail__sub-product {
+  gap: var(--detail-sub-product-gap); }
 
 .detail__btnBox {
   justify-content: flex-start; }
@@ -228,24 +241,45 @@ body {
 .detail .atc__icon {
   font-size: var(--atc-icon-fs); }
 
-.detail__imgBox {
+.detail__features .features {
+  flex-wrap: wrap; }
+  .detail__features .features__item {
+    flex: 1 1 200px;
+    text-wrap: nowrap; }
+  .detail__features .features__shipping > i {
+    color: var(--shipping-icon-clr); }
+  .detail__features .features__payment > i {
+    color: var(--payment-icon-clr); }
+  .detail__features .features__certified > i {
+    color: var(--certified-icon-clr); }
+  .detail__features .features__trophy > i {
+    color: var(--trophy-icon-clr); }
+  .detail__features .features__icon {
+    font-size: var(--feature-icon-fs); }
+  .detail__features .features__text {
+    font-size: var(--feature-text-fs); }
+
+.detail__imgBox, .detail__carousel-box {
   position: relative; }
 
-.detail__carousel-box {
+.detail__carousel-box, .detail__carousel, .detail__img {
   height: 100%;
-  position: relative;
+  width: 100%; }
+
+.detail__imgBox {
+  grid-template-rows: 1fr auto; }
+
+.detail__carousel-box {
   overflow: hidden;
   z-index: 50; }
   .detail__carousel-box::-webkit-scrollbar {
     display: none; }
 
 .detail__carousel {
-  width: 100%;
   position: absolute; }
 
 .detail__img {
-  width: var(--detail-img-width);
-  margin-inline: auto; }
+  object-fit: contain; }
 
 .carousel__btn {
   position: absolute;
@@ -266,7 +300,7 @@ body {
   justify-content: center; }
   .dots .dot {
     cursor: pointer;
-    width: 0.75rem;
+    width: 0.5rem;
     aspect-ratio: 1/1;
     border-radius: 50%;
     border: 2px solid var(--black-clr); }
@@ -331,7 +365,8 @@ body {
   font-size: var(--detail-primary-title-fs); }
 
 .detail__price {
-  font-size: var(--detail-price-fs); }
+  font-size: var(--detail-price-fs);
+  font-weight: 300; }
 
 .similar--title {
   font-size: var(--similar-title-fs);
@@ -380,6 +415,13 @@ body {
 .slider--active {
   transform: translateX(0%); }
 
+@media only screen and (max-width: 900px) {
+  .detail__container {
+    grid-template-columns: 1fr;
+    grid-template-rows: 25rem auto; }
+  .dots .dot {
+    width: 0.75rem; } }
+
 @media only screen and (max-width: 500px) {
   :root {
     --detail-primary-title-fs: 2.25rem;
@@ -398,6 +440,12 @@ body {
   .detail {
     --cko-and-atc-btn-fs: 1rem;
     --atc-icon-fs: 1.65rem; }
+    .detail__imgBox {
+      padding-inline: 1.25rem; }
+  .carousel__left {
+    left: -4%; }
+  .carousel__right {
+    right: -4%; }
   .slider {
     --slider-btns-padding: 1.25rem 0rem;
     --checkout-padding: 0.25rem 0.5rem;
@@ -416,8 +464,3 @@ body {
   .detail__btnBox > * {
     flex: 1;
     text-wrap: nowrap; } }
-
-@media only screen and (max-width: 900px) {
-  .detail__container {
-    grid-template-columns: 1fr;
-    grid-template-rows: 20rem auto; } }

@@ -75,19 +75,20 @@
   --detail-cont-padding: 2rem 1rem;
   --cko-and-atc-padding: 0.75rem 1.75rem;
 
-  // IMG
-  --detail-img-width: 20rem;
-
   // GAP
+  --detail-header-gap: 0.5rem;
   --detail-product-gap: 2rem;
+  --detail-sub-product-gap: 2rem;
   --atc-btn-gap: 0.75rem;
 
   // FONT-SIZE
-  --cko-and-atc-btn-fs: 1.11rem;
-  --atc-icon-fs: 1.75rem;
+  --cko-and-atc-btn-fs: 1rem;
+  --atc-icon-fs: 1.5rem;
+  --feature-icon-fs: 2rem;
+  --feature-text-fs: 1rem;
 
   &__container {
-    grid-template-columns: 1fr 1.25fr;
+    grid-template-columns: 1fr 1fr;
     gap: 2rem;
     padding: var(--detail-cont-padding);
   }

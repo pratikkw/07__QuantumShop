@@ -1,11 +1,21 @@
 .detail {
-  &__imgBox {
+  &__imgBox,
+  &__carousel-box {
     position: relative;
   }
 
-  &__carousel-box {
+  &__carousel-box,
+  &__carousel,
+  &__img {
     height: 100%;
-    position: relative;
+    width: 100%;
+  }
+
+  &__imgBox {
+    grid-template-rows: 1fr auto;
+  }
+
+  &__carousel-box {
     overflow: hidden;
     z-index: 50;
 
@@ -15,13 +25,11 @@
   }
 
   &__carousel {
-    width: 100%;
     position: absolute;
   }
 
   &__img {
-    width: var(--detail-img-width);
-    margin-inline: auto;
+    object-fit: contain;
   }
 }
 
@@ -51,7 +59,7 @@
 
   .dot {
     cursor: pointer;
-    width: 0.75rem;
+    width: 0.5rem;
     aspect-ratio: 1/1;
     border-radius: 50%;
     border: 2px solid var(--black-clr);

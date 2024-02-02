@@ -1,3 +1,18 @@
+@media only screen and (max-width: 900px) {
+  .detail {
+    &__container {
+      grid-template-columns: 1fr;
+      grid-template-rows: 25rem auto;
+    }
+  }
+
+  .dots {
+    .dot {
+      width: 0.75rem;
+    }
+  }
+}
+
 @media only screen and (max-width: 500px) {
   :root {
     --detail-primary-title-fs: 2.25rem;
@@ -24,6 +39,20 @@
   .detail {
     --cko-and-atc-btn-fs: 1rem;
     --atc-icon-fs: 1.65rem;
+
+    &__imgBox {
+      padding-inline: 1.25rem;
+    }
+  }
+
+  .carousel {
+    &__left {
+      left: -4%;
+    }
+
+    &__right {
+      right: -4%;
+    }
   }
 
   .slider {
@@ -54,17 +83,5 @@
   .detail__btnBox > * {
     flex: 1;
     text-wrap: nowrap;
-  }
-}
-
-@media only screen and (max-width: 900px) {
-  .detail {
-    &__container {
-      grid-template-columns: 1fr;
-      grid-template-rows: 20rem auto;
-    }
-
-    &__img {
-    }
   }
 }

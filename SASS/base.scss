@@ -56,6 +56,10 @@ a {
   --addtocart-bk-clr: hsl(40, 3%, 20%);
   --close-btn-bk-clr: hsl(0, 0%, 93%);
   --checkout-btn-bk-clr: hsl(48, 89%, 48%);
+  --shipping-icon-clr: hsl(196, 95%, 52%);
+  --payment-icon-clr: hsl(167, 100%, 36%);
+  --certified-icon-clr: hsl(48, 100%, 67%);
+  --trophy-icon-clr: hsl(231, 64%, 73%);
 
   --addtocart-text-clr: hsl(0, 0%, 93%);
 
@@ -72,10 +76,10 @@ a {
   --secondary-title-fs: 1.25rem;
   --third-title-fs: 2.25rem;
   --detail-primary-title-fs: 3rem;
-  --detail-price-fs: 1.75rem;
+  --detail-price-fs: 1.5rem;
   --similar-title-fs: 2.25rem;
   --item-price-fs: 1.25rem;
-  --para-fs: 1.125rem;
+  --para-fs: 1rem;
 }
 
 body {

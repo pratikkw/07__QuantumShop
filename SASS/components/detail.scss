@@ -1,9 +1,16 @@
 .detail {
+  &__header {
+    gap: var(--detail-header-gap);
+  }
+
   &__product {
     gap: var(--detail-product-gap);
-
     position: relative;
     z-index: 70;
+  }
+
+  &__sub-product {
+    gap: var(--detail-sub-product-gap);
   }
 
   &__btnBox {
@@ -30,5 +37,40 @@
 
   .atc__icon {
     font-size: var(--atc-icon-fs);
+  }
+
+  &__features {
+    .features {
+      flex-wrap: wrap;
+
+      &__item {
+        flex: 1 1 200px;
+        text-wrap: nowrap;
+      }
+
+      &__shipping > i {
+        color: var(--shipping-icon-clr);
+      }
+
+      &__payment > i {
+        color: var(--payment-icon-clr);
+      }
+
+      &__certified > i {
+        color: var(--certified-icon-clr);
+      }
+
+      &__trophy > i {
+        color: var(--trophy-icon-clr);
+      }
+
+      &__icon {
+        font-size: var(--feature-icon-fs);
+      }
+
+      &__text {
+        font-size: var(--feature-text-fs);
+      }
+    }
   }
 }
