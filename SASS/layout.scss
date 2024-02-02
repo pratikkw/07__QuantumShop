@@ -2,7 +2,7 @@
   position: fixed;
   inset: 0;
   background-color: var(--overlay-bk-clr);
-  z-index: 40;
+  z-index: 90;
 
   display: none;
 }
@@ -29,6 +29,7 @@
 
   position: sticky;
   inset: 0 auto auto 0;
+  z-index: 80;
   background-color: var(--white-clr);
   border-bottom: 2px solid var(--black-clr);
 
@@ -75,7 +76,7 @@
   --cko-and-atc-padding: 0.75rem 1.75rem;
 
   // IMG
-  --detail-img-width: 23rem;
+  --detail-img-width: 20rem;
 
   // GAP
   --detail-product-gap: 2rem;
@@ -86,7 +87,8 @@
   --atc-icon-fs: 1.75rem;
 
   &__container {
-    flex-wrap: wrap;
+    grid-template-columns: 1fr 1.25fr;
+    gap: 2rem;
     padding: var(--detail-cont-padding);
   }
 }
@@ -115,7 +117,7 @@
 
   position: fixed;
   inset: 0 0 0 auto;
-  z-index: 50;
+  z-index: 100;
   background-color: var(--slider-bk-clr);
   max-width: var(--slider-width);
   color: var(--white-clr);

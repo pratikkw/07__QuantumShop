@@ -1,23 +1,9 @@
 .detail {
-  &__container > * {
-    flex: 1;
-  }
-
-  &__imgBox {
-    flex: 1 1 18.75rem;
-  }
-
-  &__img {
-    width: var(--detail-img-width);
-    margin-inline: auto;
-  }
-
   &__product {
-    flex: 1 1 25rem;
-    align-self: flex-start;
-    margin-top: 3rem;
-
     gap: var(--detail-product-gap);
+
+    position: relative;
+    z-index: 70;
   }
 
   &__btnBox {

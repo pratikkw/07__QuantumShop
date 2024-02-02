@@ -14,3 +14,26 @@ const slider_Functionality = function () {
 cartBtn.addEventListener("click", slider_Functionality);
 overlay.addEventListener("click", slider_Functionality);
 closeBtn.addEventListener("click", slider_Functionality);
+
+const imgs = document.querySelectorAll(".detail__img");
+const btnLeft = document.querySelector(".carousel__left");
+const btnRight = document.querySelector(".carousel__right");
+
+let curSlide = 0;
+
+const arrangeSlide = function () {
+  imgs.forEach((item, ind) => {
+    item.style.transform = `translateX(${(ind - curSlide) * 100}%)`;
+  });
+};
+arrangeSlide();
+
+btnRight.addEventListener("click", function () {
+  curSlide = curSlide === imgs.length - 1 ? 0 : curSlide + 1;
+  arrangeSlide();
+});
+
+btnLeft.addEventListener("click", function () {
+  curSlide = curSlide === 0 ? imgs.length - 1 : curSlide - 1;
+  arrangeSlide();
+});
