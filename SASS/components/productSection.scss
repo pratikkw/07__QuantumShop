@@ -1,0 +1,50 @@
+.item {
+  justify-content: center;
+  padding: var(--item-padding);
+  background-color: var(--item-bk-clr);
+  border-radius: 1rem;
+
+  &__intro {
+    justify-items: center;
+    text-align: center;
+  }
+
+  &__btnBox,
+  &__atcBox,
+  .quantity {
+    justify-content: center;
+  }
+
+  &__atcBox {
+    display: grid;
+  }
+
+  .atc__btn {
+    background-color: var(--addtocart-bk-clr);
+    color: var(--addtocart-text-clr);
+    font-size: var(--atc-btn-fs);
+    padding: var(--atc-btn-padding);
+    border-radius: 100px;
+    text-transform: capitalize;
+  }
+
+  .quantity {
+    &__input {
+      text-align: center;
+      width: var(--quantity-input-width);
+      border: 2px solid var(--black-clr);
+      border-radius: 100px;
+      padding: var(--quantity-padding);
+    }
+  }
+}
+
+.quantity__input::-webkit-outer-spin-button,
+.quantity__input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.quantity__input[type="number"] {
+  -moz-appearance: textfield;
+}

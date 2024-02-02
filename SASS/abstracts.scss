@@ -1,22 +1,28 @@
-.primary--title {
-  font-size: 2.25rem;
-}
-
-.secondary--title {
-  font-weight: 400;
-  font-size: 1.25rem;
-}
-
-.third--title {
-  font-size: 2.25rem;
-  font-weight: 300;
-}
-
-.fourth--title {
-  font-weight: 300;
-}
-
 // MDF CLASSes
+.mg-bttm-sml {
+  margin-bottom: 0.5rem;
+}
+
+.mg-bttm-mdm {
+  margin-bottom: 1rem;
+}
+
+.mg-bttm-lar {
+  margin-bottom: 1.5rem;
+}
+
+.mg-bttm-lar-2 {
+  margin-bottom: 3rem;
+}
+
+.mg-bttm-lar-3 {
+  margin-bottom: 5rem;
+}
+
+.body--lock {
+  overflow: hidden;
+}
+
 .hide-transition_box {
   display: grid;
   grid-template-rows: 0fr;

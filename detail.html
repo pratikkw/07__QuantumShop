@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Detail Page</title>
+    <!-- ICON -->
+    <link
+      rel="stylesheet"
+      href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
+    />
+
+    <!-- FONT -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="CSS/style.css" />
+
+    <!-- JS -->
+    <script type="module" src="JS/detail.js"></script>
+  </head>
+  <body>
+    <div class="overlay"></div>
+    <main class="main">
+      <div class="main__container">
+        <!-- HEADER -->
+        <header class="header">
+          <div class="header__container flex">
+            <h1 class="primary--title">Products</h1>
+            <button class="cart__btn flex">
+              <i class="las la-shopping-cart cart__icon"></i>
+              <span class="qty">2</span>
+            </button>
+          </div>
+        </header>
+
+        <!-- SECTION:- DETAIL ABOUT PRODUCT -->
+        <section class="detail mg-bttm-lar-2">
+          <div class="detail__container flex">
+            <div class="detail__imgBox">
+              <img src="ProductImg-2/1.png" alt="" class="detail__img" />
+            </div>
+
+            <div class="detail__product grid">
+              <div class="grid">
+                <h1 class="detail__primary--title">LD01 LOUNGE CHAIR</h1>
+                <span class="detail__price">$ 200</span>
+              </div>
+              <div class="detail__btnBox flex">
+                <button class="detail__ckoBtn">check out</button>
+                <button class="detail__atcBtn flex">
+                  Add to Cart
+                  <i class="las la-cart-plus atc__icon"></i>
+                </button>
+              </div>
+              <p class="para">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Consequatur facilis odit assumenda numquam eius in sit porro
+                inventore repellendus maxime, natus ratione recusandae nulla
+                nesciunt. Nam, dolore sunt! Impedit, eaque?
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- SECTION:- SIMILAR PRODUCT -->
+        <section class="similar">
+          <div class="products">
+            <span class="similar--title mg-bttm-lar"> Similar Products </span>
+            <ul class="products__container grid">
+              <!-- ITEM 02 -->
+              <li class="item grid">
+                <div class="item__intro grid">
+                  <img src="ProductImg-2/2.png" class="item__img" alt="" />
+                  <h2 class="secondary--title">LD02 LOUNGE CHAIR</h2>
+
+                  <span class="item__price">$ 500</span>
+                </div>
+                <div class="item__btnBox grid">
+                  <div class="hide-transition_box--active">
+                    <div class="hide-transition_sub-box">
+                      <div class="item__atcBox">
+                        <button class="atc__btn">add to cart</button>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="hide-transition_box">
+                    <div class="hide-transition_sub-box">
+                      <div class="quantity">
+                        <button class="quantity__btn minus">&minus;</button>
+                        <input
+                          class="quantity__input"
+                          type="number"
+                          placeholder="05"
+                          readonly
+                          min="0"
+                        />
+                        <button class="quantity__btn" class="plus">
+                          &plus;
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <!-- ITEM 03 -->
+              <li class="item grid">
+                <div class="item__intro grid">
+                  <img src="ProductImg-2/3.png" class="item__img" alt="" />
+                  <h2 class="secondary--title">LD03 LOUNGE CHAIR</h2>
+
+                  <span class="item__price">$ 700</span>
+                </div>
+                <div class="item__btnBox grid">
+                  <div class="hide-transition_box--active">
+                    <div class="hide-transition_sub-box">
+                      <div class="item__atcBox">
+                        <button class="atc__btn">add to cart</button>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="hide-transition_box">
+                    <div class="hide-transition_sub-box">
+                      <div class="quantity">
+                        <button class="quantity__btn minus">&minus;</button>
+                        <input
+                          class="quantity__input"
+                          type="number"
+                          placeholder="05"
+                          readonly
+                          min="0"
+                        />
+                        <button class="quantity__btn" class="plus">
+                          &plus;
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <!-- ITEM 04 -->
+              <li class="item grid">
+                <div class="item__intro grid">
+                  <img src="ProductImg-2/4.png" class="item__img" alt="" />
+                  <h2 class="secondary--title">LD04 LOUNGE CHAIR</h2>
+
+                  <span class="item__price">$ 900</span>
+                </div>
+                <div class="item__btnBox grid">
+                  <div class="hide-transition_box--active">
+                    <div class="hide-transition_sub-box">
+                      <div class="item__atcBox">
+                        <button class="atc__btn">add to cart</button>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="hide-transition_box">
+                    <div class="hide-transition_sub-box">
+                      <div class="quantity">
+                        <button class="quantity__btn minus">&minus;</button>
+                        <input
+                          class="quantity__input"
+                          type="number"
+                          placeholder="05"
+                          readonly
+                          min="0"
+                        />
+                        <button class="quantity__btn" class="plus">
+                          &plus;
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <!-- ITEM 05 -->
+              <li class="item grid">
+                <div class="item__intro grid">
+                  <img src="ProductImg-2/5.png" class="item__img" alt="" />
+                  <h2 class="secondary--title">LD05 LOUNGE CHAIR</h2>
+
+                  <span class="item__price">$ 1000</span>
+                </div>
+                <div class="item__btnBox grid">
+                  <div class="hide-transition_box--active">
+                    <div class="hide-transition_sub-box">
+                      <div class="item__atcBox">
+                        <button class="atc__btn">add to cart</button>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="hide-transition_box">
+                    <div class="hide-transition_sub-box">
+                      <div class="quantity">
+                        <button class="quantity__btn minus">&minus;</button>
+                        <input
+                          class="quantity__input"
+                          type="number"
+                          placeholder="05"
+                          readonly
+                          min="0"
+                        />
+                        <button class="quantity__btn" class="plus">
+                          &plus;
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <!-- ITEM 06 -->
+              <li class="item grid">
+                <div class="item__intro grid">
+                  <img src="ProductImg-2/6.png" class="item__img" alt="" />
+                  <h2 class="secondary--title">LD06 LOUNGE CHAIR</h2>
+
+                  <span class="item__price">$ 1200</span>
+                </div>
+                <div class="item__btnBox grid">
+                  <div class="hide-transition_box--active">
+                    <div class="hide-transition_sub-box">
+                      <div class="item__atcBox">
+                        <button class="atc__btn">add to cart</button>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="hide-transition_box">
+                    <div class="hide-transition_sub-box">
+                      <div class="quantity">
+                        <button class="quantity__btn minus">&minus;</button>
+                        <input
+                          class="quantity__input"
+                          type="number"
+                          placeholder="05"
+                          readonly
+                          min="0"
+                        />
+                        <button class="quantity__btn" class="plus">
+                          &plus;
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <div class="slider">
+      <div class="slider__container grid">
+        <div class="slider__header">
+          <h3 class="third--title">Shopping Cart</h3>
+        </div>
+        <ul class="checkout grid">
+          <!-- ITEM 01 -->
+          <li class="checkout__item flex">
+            <img class="checkout__img" src="ProductImg-2/1.png" alt="" />
+            <h4 class="fourth--title">LD01 LOUNGE CHAIR</h4>
+            <span class="checkout__price">$ 200</span>
+
+            <div class="checkout__btnBox flex">
+              <button class="checkout__btn">&minus;</button>
+              <span class="checkout__qty">1</span>
+              <button class="checkout__btn">&plus;</button>
+            </div>
+          </li>
+
+          <!-- ITEM 02 -->
+          <li class="checkout__item flex">
+            <img class="checkout__img" src="ProductImg-2/2.png" alt="" />
+            <h4 class="fourth--title">LD02 LOUNGE CHAIR</h4>
+            <span class="checkout__price">$ 1000</span>
+
+            <div class="checkout__btnBox flex">
+              <button class="checkout__btn">&minus;</button>
+              <span class="checkout__qty">2</span>
+              <button class="checkout__btn">&plus;</button>
+            </div>
+          </li>
+
+          <!-- ITEM 03 -->
+          <li class="checkout__item flex">
+            <img class="checkout__img" src="ProductImg-2/3.png" alt="" />
+            <h4 class="fourth--title">LD03 LOUNGE CHAIR</h4>
+            <span class="checkout__price">$ 1050</span>
+
+            <div class="checkout__btnBox flex">
+              <button class="checkout__btn">&minus;</button>
+              <span class="checkout__qty">3</span>
+              <button class="checkout__btn">&plus;</button>
+            </div>
+          </li>
+        </ul>
+
+        <div class="slider__btn flex">
+          <button class="slider__close">close</button>
+          <button class="slider__checkout">check out</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

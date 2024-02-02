@@ -11,6 +11,10 @@ li {
   list-style: none;
 }
 
+span {
+  display: block;
+}
+
 img,
 picture,
 video,
@@ -45,6 +49,8 @@ a {
 
 :root {
   --body-bk-clr: hsl(0, 0%, 100%);
+  --overlay-bk-clr: hsla(0, 0%, 0%, 0.8);
+  --cart-and-qty-bk-clr: hsl(244, 98%, 80%);
   --item-bk-clr: hsl(60, 18%, 91%);
   --slider-bk-clr: hsl(40, 3%, 20%);
   --addtocart-bk-clr: hsl(40, 3%, 20%);
@@ -52,10 +58,28 @@ a {
   --checkout-btn-bk-clr: hsl(48, 89%, 48%);
 
   --addtocart-text-clr: hsl(0, 0%, 93%);
+
+  // DETAIL PAGE
+  --detail-page-cko-btn-bk-clr: hsla(0, 4%, 82%, 0.7);
+  --detail-page-atc-btn-bk-clr: hsl(0, 0%, 18%);
+
+  // COMMON Clr
+  --black-clr: hsl(0, 0%, 0%);
+  --white-clr: hsl(0, 0%, 100%);
+
+  // FONT-SIZE
+  --primary-title-fs: 1.75rem;
+  --secondary-title-fs: 1.25rem;
+  --third-title-fs: 2.25rem;
+  --detail-primary-title-fs: 3rem;
+  --detail-price-fs: 1.75rem;
+  --similar-title-fs: 2.25rem;
+  --item-price-fs: 1.25rem;
+  --para-fs: 1.125rem;
 }
 
 body {
-  min-height: 100vh;
+  min-height: 100dvh;
   position: relative;
   isolation: isolate;
   font-family: "Roboto", sans-serif;

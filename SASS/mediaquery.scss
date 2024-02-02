@@ -1,59 +1,58 @@
 @media only screen and (max-width: 500px) {
-  .products {
-    &__container {
-      // grid-template-columns: repeat(auto-fit, minmax(150px, 350px));
-      justify-content: center;
-      grid-template-columns: minmax(150px, 350px);
-    }
+  :root {
+    --detail-primary-title-fs: 2.25rem;
+    --detail-price-fs: 1.5rem;
+    --secondary-title-fs: 1.35rem;
+    --item-price-fs: 1.35rem;
   }
 
-  .secondary--title {
-    font-size: 1.35rem;
+  .header {
+    --header-cart-btn-padding: 0.25rem 1.5rem;
+
+    --header-cart-icon-fs: 2rem;
+    --qty-fs: 1.35rem;
+  }
+
+  .products {
+    --atc-btn-padding: 0.5rem 1.75rem;
+    --atc-btn-fs: 1.11rem;
+
+    --quantity-input-width: 10rem;
+    --quantity-padding: 0.35rem 0rem;
+  }
+
+  .detail {
+    --cko-and-atc-btn-fs: 1rem;
+    --atc-icon-fs: 1.65rem;
+  }
+
+  .slider {
+    --slider-btns-padding: 1.25rem 0rem;
+    --checkout-padding: 0.25rem 0.5rem;
+    --checkout-qty-padding: 0.25rem 0.5rem;
+    --checkout-qty-fs: 0.95rem;
+    --checkout-btn-fs: 1.25rem;
+  }
+
+  .products__container {
+    justify-content: center;
+    grid-template-columns: minmax(9.375rem, 21.875rem);
   }
 
   .item {
     gap: 1.25rem;
 
-    &__price {
-      font-size: 1.35rem;
+    &__img {
+      width: 15rem;
     }
 
-    .atc__btn {
-      font-size: 1.11rem;
-      padding: 0.5rem 1.75rem;
-    }
-
-    .quantity {
-      &__input {
-        width: 10rem;
-        padding: 0.35rem 0rem;
-      }
-
-      &__btn {
-        font-size: 1.5rem;
-      }
+    .quantity__btn {
+      font-size: 1.5rem;
     }
   }
 
-  // SLIDER
-  .slider {
-    .checkout {
-      padding-inline: 0.25rem 0.5rem;
-
-      &__btn {
-        font-size: 1.25rem;
-      }
-
-      &__qty {
-        font-size: 0.95rem;
-        padding: 0.25rem 0.5rem;
-      }
-    }
-
-    &__btn {
-      & > * {
-        padding: 1.25rem 0rem;
-      }
-    }
+  .detail__btnBox > * {
+    flex: 1;
+    text-wrap: nowrap;
   }
 }
